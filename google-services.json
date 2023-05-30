@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447984918632",
+    "project_id": "moviles-test-97402",
+    "storage_bucket": "moviles-test-97402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447984918632:android:d2cb94ee33c31e6fea5bdd",
+        "android_client_info": {
+          "package_name": "cr.ac.una.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8F-mWPwhjd1fZaiijQTgL2-qZAenBMzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
